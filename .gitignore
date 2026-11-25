@@ -1,0 +1,13 @@
+# Python / IDE
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.idea/
+# Local runtime data and exports
+data/
+results/
+*.sqlite
+*.sqlite3
+.DS_Store
